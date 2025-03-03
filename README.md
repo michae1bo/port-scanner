@@ -1,3 +1,3 @@
 # Port Scanner
 
-This is the boilerplate for the Port Scanner project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/information-security/information-security-projects/port-scanner
+This is based on https://www.freecodecamp.org/learn/information-security/information-security-projects/port-scanner for the Port Scanner Project on freeCodeCamp
